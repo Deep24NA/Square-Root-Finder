@@ -14,11 +14,7 @@ Built with **HTML, Tailwind CSS, and JavaScript** — works for **perfect and no
 
 ---
 
-## 📸 Screenshot
-![App Screenshot](screenshot.png)  
-*(Replace with your screenshot)*
 
----
 
 ## 🛠️ Tech Stack
 - **HTML5**  
